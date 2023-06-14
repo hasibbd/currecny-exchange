@@ -15,7 +15,7 @@ composer create-project laravel/laravel example-app
 
 After a new Laravel install we got to the inside of the project directory by ` cd example-app `.
 
-#### 2. Install Currex Package using Composer.
+#### 2. Install Package using Composer.
 
 Inside your command prompt navigate to the folder with your project name. In our case: `example-app`, and run the following command:
 
@@ -23,7 +23,7 @@ Inside your command prompt navigate to the folder with your project name. In our
 composer create-project hasibul/exchange
 ```
 
-#### 3. Basic Usease
+#### 3. Basic Usage.
 
 Let's start by creating a new `ExchangeController` inside of our project Controllers directory, and add the following code:
 

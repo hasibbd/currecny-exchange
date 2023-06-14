@@ -1,11 +1,11 @@
 {
-    "name": "hasib/exchange",
+    "name": "hasibul/exchange",
     "description": "Simple money exchange package",
     "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Hasib\\Exchange\\": "src/"
+            "Hasibul\\Exchange\\": "src/"
         }
     },
     "authors": [

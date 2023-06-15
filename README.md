@@ -2,7 +2,7 @@
 
 ### Usage or Installation 
 ```
-composer create-project hasibul/exchange
+composer require hasibul/exchange
 ```
 ### Installation 
 #### 1. Create our folder for our new package.

@@ -20,7 +20,7 @@ After a new Laravel install we got to the inside of the project directory by ` c
 Inside your command prompt navigate to the folder with your project name. In our case: `example-app`, and run the following command:
 
 ```
-composer create-project hasibul/exchange
+composer require hasibul/exchange
 ```
 
 #### 3. Basic Usage.
